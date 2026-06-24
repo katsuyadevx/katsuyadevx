@@ -34,15 +34,18 @@
 
 </div>
 
-```rust
-struct Katsuya {
-    age:        u8   = 20,
-    location:   &str = "Paris, France 🗼",
-    focus:      &str = "SaaS • Full-Stack • Product",
-    status:     &str = "Building in silence, shipping in public",
-    next_drop:  &str = "TikTok SaaS — coming soon 👀",
-}
-```
+<div align="center">
+
+| | |
+|:---|:---|
+| 👤 **Name** | Katsuya |
+| 📍 **Location** | Paris, France 🗼 |
+| 🎂 **Age** | 20 |
+| 🎯 **Focus** | SaaS • Full-Stack • Product |
+| ⚡ **Status** | Building in silence, shipping in public |
+| 🚀 **Next Drop** | TikTok SaaS — coming soon 👀 |
+
+</div>
 
 ---
 
@@ -134,6 +137,12 @@ struct Katsuya {
 <br/><br/>
 
 > *"Work in silence. Let the product speak."*
+
+<div align="center">
+  <img src="https://github.com/katsuyadevx/katsuyadevx/raw/main/361e63b57a0e5224cef74ca3f095b8e7.gif" width="100%" style="border-radius:8px"/>
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=100&section=footer" />
 

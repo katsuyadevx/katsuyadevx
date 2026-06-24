@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=220&section=header&text=katsuyadevx&fontSize=65&fontAlignY=38&fontColor=FF2244&desc=Building%20things%20that%20don't%20exist%20yet&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=220&section=header&text=katsuyadevx&fontSize=65&fontAlignY=38&fontColor=FF2244&desc=Building%20things%20that%20don't%20exist%20yet&descAlignY=58&descSize=18&animation=fadeIn&fontFamily=JetBrains%20Mono" />
 </div>
 
 <div align="center">
 
-                           ██╗  ██╗ █████╗ ████████╗███████╗██╗   ██╗██╗   ██╗ █████╗
-                           ██║ ██╔╝██╔══██╗╚══██╔══╝██╔════╝██║   ██║╚██╗ ██╔╝██╔══██╗
-                           █████╔╝ ███████║   ██║   ███████╗██║   ██║ ╚████╔╝ ███████║
-                           ██╔═██╗ ██╔══██║   ██║   ╚════██║██║   ██║  ╚██╔╝  ██╔══██║
-                           ██║  ██╗██║  ██║   ██║   ███████║╚██████╔╝   ██║   ██║  ██║
-                           ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
+                                      ██╗  ██╗ █████╗ ████████╗███████╗██╗   ██╗██╗   ██╗ █████╗
+                                      ██║ ██╔╝██╔══██╗╚══██╔══╝██╔════╝██║   ██║╚██╗ ██╔╝██╔══██╗
+                                      █████╔╝ ███████║   ██║   ███████╗██║   ██║ ╚████╔╝ ███████║
+                                      ██╔═██╗ ██╔══██║   ██║   ╚════██║██║   ██║  ╚██╔╝  ██╔══██║
+                                      ██║  ██╗██║  ██║   ██║   ███████║╚██████╔╝   ██║   ██║  ██║
+                                      ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
 
 
 
